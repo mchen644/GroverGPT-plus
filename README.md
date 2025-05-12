@@ -1,6 +1,10 @@
 # GroverGPT-2
 GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Arxiv](https://img.shields.io/badge/arXiv-2505.04880-B31B1B.svg)][#arxiv-paper-package]
+
+[#arxiv-paper-package]: https://arxiv.org/abs/2505.04880
+
 ## Getting Started
 
 ### Step 1: Download the Data
