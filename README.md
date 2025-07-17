@@ -1,5 +1,5 @@
-# GroverGPT-2
-GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization
+# GroverGPT+
+GroverGPT+: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Arxiv](https://img.shields.io/badge/arXiv-2505.04880-B31B1B.svg)][#arxiv-paper-package]
 
@@ -43,7 +43,7 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train \
     --template llama3 \
     --finetuning_type lora \
     --lora_target q_proj,v_proj \
-    --output_dir /home/cm/saves/Meta-Llama-3-8B-Instruct/lora/GroverGPT-2\
+    --output_dir /home/cm/saves/Meta-Llama-3-8B-Instruct/lora/GroverGPT+\
     --overwrite_cache \
     --overwrite_output_dir \
     --cutoff_len 3000 \
