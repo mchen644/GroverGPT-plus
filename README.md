@@ -10,7 +10,7 @@ GroverGPT+: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Qua
 ### Step 1: Download the Data
 
 First, download the data from the following link:  
-[Download Data](https://huggingface.co/datasets/mchen644/Grover_MMS/resolve/main/data_MMS.rar?download=truep)
+[Download Data](https://huggingface.co/datasets/mchen644/Grover_MMS/resolve/main/data_MMS.rar?download=true)
 
 Extract the downloaded `data_MMS.rar` to the current directory.
 
